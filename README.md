@@ -1,2 +1,1 @@
-# calculators
-Generic mortgage calculator
+
